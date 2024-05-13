@@ -1,8 +1,9 @@
 # Recipe-App
-This is a simple console application for managing recipes. Users can enter recipe details, view the recipe, scale the recipe, reset ingredient quantities, and clear all data.
+# Introduction
+RecipeApp is a simple console-based application written in C# that allows users to manage recipes. Users can enter recipe details including ingredients with calories and food groups, scale recipes, reset quantities, and more.
 
 ## Getting Started
-
+To compile and run the software, you will need to have the .NET SDK installed on your system. You can download it from here
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### requirements
@@ -27,6 +28,11 @@ These instructions will get you a copy of the project up and running on your loc
    - Reset Quantities
    - Clear All Data
    - Exit
+
+   # Usage
+    Upon running the application, follow the on-screen instructions to interact with the RecipeApp.
+    You can enter recipe details, display recipes, scale recipes, reset quantities, clear all data, and exit the application using the provided menu options.
+    For each recipe, you can enter the name, ingredients (with calories and food group), steps, and view the total calories, with a warning if it exceeds 300.
    - ## Contributing
 
 Contributions are welcome! If you find any bugs or want to suggest improvements, please open an issue or submit a pull request.
