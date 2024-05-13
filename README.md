@@ -33,7 +33,13 @@ These instructions will get you a copy of the project up and running on your loc
     Upon running the application, follow the on-screen instructions to interact with the RecipeApp.
     You can enter recipe details, display recipes, scale recipes, reset quantities, clear all data, and exit the application using the provided menu options.
     For each recipe, you can enter the name, ingredients (with calories and food group), steps, and view the total calories, with a warning if it exceeds 300.
-   - ## Contributing
+
+  # File Structure
+   Program.cs: Contains the main program logic including the Main method.
+   Recipe.cs: Defines the Recipe class with methods for managing recipe details.
+   Ingredient.cs: Defines the Ingredient class for representing ingredients with calories and food groups.
+    
+   # Contributing
 
 Contributions are welcome! If you find any bugs or want to suggest improvements, please open an issue or submit a pull request.
 
